@@ -1,0 +1,10 @@
+.cart{
+    position: absolute;
+    top: 70px;
+    right: 60px;
+    visibility: hidden;
+    transition:.5s;
+}
+.cart-active{
+    visibility: visible;    
+}
